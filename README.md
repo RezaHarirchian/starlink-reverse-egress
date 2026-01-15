@@ -1,5 +1,4 @@
-# Starlink Reverse Egress
-A reverse egress architecture built around Starlink, enabling outbound internet connectivity for isolated or shutdown environments through outside-initiated connections, with support for scaling, load distribution, failover, and high user capacity.
+
 🌐 اتصال VPS ایران به اینترنت آزاد در Shutdown کامل
 معماری پایدار و قابل Scale برای بار کاربری بالا
 📌 مقدمه
